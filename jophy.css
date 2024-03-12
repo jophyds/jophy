@@ -1,0 +1,21 @@
+<style>
+    .one{
+        background-color: violet;
+        height: 100px;
+        width: 100px;
+        display: inline;            
+    }
+    .two{
+        background-color: red;
+        height: 100px;
+        width: 100px;
+    }
+    h1{
+        background-color: yellow;
+    }
+    p{
+        background-color: red;
+    }
+</style><div class="one"></div>
+<div class="two"></div>
+<h1>hi</h1>
